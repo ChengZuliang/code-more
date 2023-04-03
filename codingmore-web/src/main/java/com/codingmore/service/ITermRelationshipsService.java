@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 文章属性关系表 服务类
  * </p>
  *
- * @author 石磊
- * @since 2021-09-12
+ * @author 程祖亮
+ * @since 2023-01-06
  */
 public interface ITermRelationshipsService extends IService<TermRelationships> {
 

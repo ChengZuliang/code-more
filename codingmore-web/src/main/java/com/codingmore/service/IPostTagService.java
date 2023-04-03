@@ -10,8 +10,8 @@ import java.util.List;
  * 标签表 服务类
  * </p>
  *
- * @author 石磊
- * @since 2021-09-12
+ * @author 程祖亮
+ * @since 2023-01-06
  */
 public interface IPostTagService extends IService<PostTag> {
 
